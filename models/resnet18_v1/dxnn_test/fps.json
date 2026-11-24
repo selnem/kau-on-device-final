@@ -1,0 +1,1 @@
+{"sets":[{"name":"psj","windows":800,"preprocess_s":0.317678,"npu_s":0.669349,"preprocess_fps":2518.2766,"npu_fps":1195.1905,"preprocess_ms":0.3971,"npu_ms":0.8367},{"name":"jsh","windows":2036,"preprocess_s":0.797984,"npu_s":1.738298,"preprocess_fps":2551.4304,"npu_fps":1171.2603,"preprocess_ms":0.3919,"npu_ms":0.8538}]}

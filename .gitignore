@@ -1,0 +1,28 @@
+# audio and calibration data
+data/
+*.wav
+*.npy
+*.npz
+
+# model weights
+*.pt
+*.pth
+*.onnx
+*.dxnn
+
+# presentation
+발표/
+
+# local env and IDE
+.venv
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.claude/
+.cursor/
+.DS_Store
+
+# build artifacts
+cpp_recognize/recognize
+*.log
